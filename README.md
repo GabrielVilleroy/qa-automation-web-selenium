@@ -2,11 +2,11 @@
 
 Projeto de automação web utilizando Selenium WebDriver, JUnit e Maven.
 
-## 📌 Objetivo
+##  Objetivo
 
 Automatizar cenários de login do site SauceDemo utilizando boas práticas de automação de testes.
 
-## 🚀 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - Java
 - Selenium WebDriver
@@ -14,7 +14,7 @@ Automatizar cenários de login do site SauceDemo utilizando boas práticas de au
 - Maven
 - IntelliJ IDEA
 
-## 📂 Estrutura do projeto
+##  Estrutura do projeto
 
 ```bash
 src/test/java
