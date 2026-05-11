@@ -16,7 +16,7 @@ Automatizar cenários de login do site SauceDemo utilizando boas práticas de au
 
 - ## 🎥 Automation Development Journey
 
-[![Watch the video](https://img.youtube.com/vi/abc123xyz/maxresdefault.jpg)](https://www.youtube.com/watch?v=Iw0RY1VtS-c&t=922s)
+[![Watch the video](https://img.youtube.com/vi/abc123xyz/maxresdefault.jpg)](https://www.youtube.com/watch?v=Iw0RY1VtS-c)
 
 
 ##  Estrutura do projeto
